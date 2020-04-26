@@ -1,8 +1,3 @@
-build
 *.swp
 *.swo
-etc/publish-release.sh
-etc/release.tar.bz2
-etc/release.tar.bz2.sig
-etc/release
-
+TAGS
